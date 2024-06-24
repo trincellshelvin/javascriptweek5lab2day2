@@ -1,4 +1,4 @@
-funtion balldropCreate(){
+function balldropCreate(){
   let name;
   let guest;
   name = prompt("What is your name?");
