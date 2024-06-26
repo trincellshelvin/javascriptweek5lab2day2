@@ -1,6 +1,5 @@
 function santashelperCreate(){
-  let name; 
-  let wish; 
+  let name, wish; 
   name = prompt("What is your name?");
   wish = promprt("What is your Christmas Wish from Santa?");
   mySantasHelperHeader.innerHTML = `Hi ${name}, Santa is very impressed with you this year. He would like to grant your wish this year.`;
